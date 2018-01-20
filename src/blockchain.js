@@ -1,6 +1,6 @@
 // blockchain definition
 
-var u = require('dash-util')
+var u = require('terracoin-util')
 var BN = require('bn.js')
 var reverse = require('buffer-reverse')
 var repeat = require('repeat-string')
