@@ -21,9 +21,9 @@
   "author": "Matt Bell <mappum@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "terracoin-protocol": "^3.0.1",
-    "terracoin-util": "^2.0.0",
-    "bitcore-lib-terracoin": "^0.13.19",
+    "terracoin-protocol": "TheSin-/terracoin-protocol",
+    "terracoin-util": "TheSin-/terracoin-util",
+    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin",
     "bn.js": "^4.11.0",
     "buffer-reverse": "^1.0.1",
     "inherits": "^2.0.1",
